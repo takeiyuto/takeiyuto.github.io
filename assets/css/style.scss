@@ -1,0 +1,57 @@
+---
+---
+@import "{{ site.theme }}";
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;600&display=swap");
+
+body,
+header h1 {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+header {
+    padding-bottom: 20px;
+
+    a {
+        color: #ffcc00;
+    }
+}
+
+#banner {
+    display: none;
+}
+
+nav {
+    top: 180px;
+
+    ul {
+        padding-inline-start: 0;
+    }
+
+    li {
+        line-height: 1.25em;
+    }
+
+    li.tag-h1 {
+        font-size: 1.05em;
+    }
+}
+
+section {
+    margin-top: 150px;
+
+    h1 {
+        font-size: 1.4em;
+    }
+
+    li {
+        text-overflow: ellipsis;
+        overflow-x: hidden;
+        list-style-position: inside;
+        text-indent: -10px;
+        padding-left: 10px;
+    }
+
+    pre {
+        text-indent: 0;
+    }
+}
