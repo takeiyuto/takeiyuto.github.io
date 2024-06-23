@@ -14,6 +14,7 @@ title: ☕
 [<img src="/assets/github.svg" height="20px" alt="GitHub">](https://github.com/takeiyuto)
 [<img src="/assets/twitter.svg" height="20px" alt="Twitter">](https://twitter.com/yutopio_ja)
 [<img src="/assets/linkedin.svg" height="20px" alt="LinkedIn">](https://linkedin.com/in/takei)
+[<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" height="20px" alt="ORCID iD">](https://orcid.org/0009-0006-4206-0484)
 
 # 2.直近の職歴
 
