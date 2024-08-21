@@ -41,6 +41,7 @@ title: ☕
 
 * Yuto Takei and Kazuyuki Shudo, “Pragmatic Analysis of Key Management for Cryptocurrency Custodians,” in 2024 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), pp. 524–542. ([論文](./assets/ckms.pdf) / [スライド](./assets/ckms-slides.pdf))
 * Yuto Takei and Kazuyuki Shudo, “FATF Travel Rule's Technical Challenges and Solution Taxonomy,” in 2024 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), pp. 729–744. ([論文](./assets/fatf.pdf) / [スライド](./assets/fatf-slides.pdf))
+* Yuto Takei and Kazuyuki Shudo, “Effective Ethereum Staking in Cryptocurrency Exchanges,” in 2024 IEEE International Conference on Blockchain, pp. 332–339. ([論文](./assets/staking.pdf) / [スライド](./assets/staking-slides.pdf))
 
 # 6.執筆活動
 
